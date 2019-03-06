@@ -1,0 +1,76 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>The And 1 podcast</title>
+    <link>https://www.spreaker.com/show/the-and-1-podcast</link>
+    <description>
+      And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
+    </description>
+    <atom:link href="http://www.spreaker.com/show/3400365/episodes/feed" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <category>Basketball</category>
+    <copyright>Copyright Hoopin and Scoopin</copyright>
+    <image>
+      <url>
+        https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg
+      </url>
+      <title>The And 1 podcast</title>
+      <link>https://www.spreaker.com/show/the-and-1-podcast</link>
+    </image>
+    <itunes:author>Hoopin and Scoopin</itunes:author>
+    <itunes:owner>
+      <itunes:name>Hoopin and Scoopin</itunes:name>
+      <itunes:email>joe.crawley10@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg" />
+    <itunes:subtitle>
+      And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
+    </itunes:subtitle>
+    <itunes:summary>
+      And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
+    </itunes:summary>
+    <itunes:category text="Sports & Recreation" />
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Hoopin and Scoopin</googleplay:author>
+    <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg" />
+    <googleplay:email>joe.crawley10@gmail.com</googleplay:email>
+    <googleplay:description>
+      And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
+    </googleplay:description>
+    <googleplay:category text="Sports & Recreation" />
+    <googleplay:explicit>No</googleplay:explicit>
+    <item>
+      <title>
+        Episode 1 - WE ARE BACK + Post Trade Deadline Analysis & More!
+      </title>
+      <link> https://www.spreaker.com/user/11129414/episode-1-we-are-back-post-trade-deadlin
+      </link>
+      <description>
+        Posted way late... lol The boys are back! We're doing hot takes, the trade deadline, and should Luke Walton be fired (we talked about it before it was cool)
+      </description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/17236453</guid>
+      <pubDate>Wed, 06 Mar 2019 05:17:02 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/17236453/episode_1_we_are_back_post_trade_deadline_analysis_more.mp3" length="0" type="audio/mpeg" />
+      <itunes:author>Hoopin and Scoopin</itunes:author>
+      <itunes:subtitle>
+        Posted way late... lol The boys are back! We're doing hot takes, the trade deadline, and should Luke Walton be fired (we talked about it before it was cool)
+      </itunes:subtitle>
+      <itunes:summary>
+        Posted way late... lol The boys are back! We're doing hot takes, the trade deadline, and should Luke Walton be fired (we talked about it before it was cool)
+      </itunes:summary>
+      <itunes:duration>3790</itunes:duration>
+      <itunes:keywords>
+        nba,curry,warriors,lebron,luke,championship,lakers,trades,lukewalton
+      </itunes:keywords>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <googleplay:author>Hoopin and Scoopin</googleplay:author>
+      <googleplay:description>
+        Posted way late... lol The boys are back! We're doing hot takes, the trade deadline, and should Luke Walton be fired (we talked about it before it was cool)
+      </googleplay:description>
+      <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg" />
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+  </channel>
+</rss>
