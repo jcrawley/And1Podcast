@@ -2,16 +2,16 @@
   <channel>
     <title>The And 1 podcast</title>
     <link>https://www.spreaker.com/show/the-and-1-podcast</link>
-    <description>
+    <itunes:summary>
       And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
-    </description>
+    </itunes:summary>
     <atom:link href="http://www.spreaker.com/show/3400365/episodes/feed" rel="self" type="application/rss+xml" />
     <language>en</language>
     <category>Basketball</category>
     <copyright>Copyright Hoopin and Scoopin</copyright>
     <image>
       <url>
-        https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg
+        https://raw.githubusercontent.com/jcrawley/And1Podcast/master/linkedin_profile_image.png
       </url>
       <title>The And 1 podcast</title>
       <link>https://www.spreaker.com/show/the-and-1-podcast</link>
@@ -39,6 +39,38 @@
     </googleplay:description>
     <googleplay:category text="Sports & Recreation" />
     <googleplay:explicit>No</googleplay:explicit>
+  <item>
+    <title>
+      Blame Pie? 🥧(Better late than never) + Hot takes 🔥🔥🔥
+    </title>
+      <link>https://www.spreaker.com/user/11129414/episode-2</link>
+    <description>
+      We talk about the success recipes (and failures) of the Warriors and Rockets. We break down who we're scared of most in the playoffs. Plus Raiders talk, and hot takes.
+    </description>
+    <guid isPermaLink="false">https://api.spreaker.com/episode/17506334</guid>
+    <pubDate>Tue, 02 Apr 2019 03:20:37 +0000</pubDate>
+    <enclosure url="https://api.spreaker.com/download/episode/17506334/episode_2.mp3" length="0" type="audio/mpeg"/>
+    <itunes:author>Hoopin and scoopin</itunes:author>
+    <itunes:subtitle>
+      We talk about the success recipes (and failures) of the Warriors and Rockets. We break down who we're scared of most in the playoffs. Plus Raiders talk, and hot takes.
+    </itunes:subtitle>
+    <itunes:summary>
+      We talk about the success recipes (and failures) of the Warriors and Rockets. We break down who we're scared of most in the playoffs. Plus Raiders talk, and hot takes.
+    </itunes:summary>
+    <itunes:duration>2699</itunes:duration>
+    <itunes:keywords>
+      nba,walton,basketball,curry,warriors,luke,raiders,lakers,finals,gsw,lukewalton
+    </itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <googleplay:author>Hoopin and scoopin</googleplay:author>
+    <googleplay:description>
+      We talk about the success recipes (and failures) of the Warriors and Rockets. We break down who we're scared of most in the playoffs. Plus Raiders talk, and hot takes.
+    </googleplay:description>
+    <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg"/>
+    <googleplay:explicit>No</googleplay:explicit>
+  </item>
     <item>
       <title>
         Episode 1 - WE ARE BACK + Post Trade Deadline Analysis & More!
