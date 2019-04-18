@@ -1,6 +1,6 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>The And 1 podcast</title>
+    <title>Airpods and Airballs</title>
     <link>https://www.spreaker.com/show/the-and-1-podcast</link>
     <itunes:summary>
       And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
@@ -13,7 +13,7 @@
       <url>
         https://raw.githubusercontent.com/jcrawley/And1Podcast/master/linkedin_profile_image.png
       </url>
-      <title>The And 1 podcast</title>
+      <title>Airpods and Airballs</title>
       <link>https://www.spreaker.com/show/the-and-1-podcast</link>
     </image>
     <itunes:author>Hoopin and Scoopin</itunes:author>
@@ -39,6 +39,38 @@
     </googleplay:description>
     <googleplay:category text="Sports & Recreation" />
     <googleplay:explicit>No</googleplay:explicit>
+  <item>
+  <title>
+    Are the Warriors in trouble? Magic left the Lakers, now what? Plus a special guest!
+  </title>
+  <link>https://www.spreaker.com/user/11129414/episode-4</link>
+  <description>
+    We do an in-depth recap of the Warriors Game 2 implosion. Plus we talk about Magic Johnson, the rest of the NBA playoffs. Also, a baseball recap, some rec league highlights, and a brand new recurring segment. Follow us on Twitter: @needswg @BradNewsBears92 @Dom_Jaranilla
+  </description>
+  <guid isPermaLink="false">https://api.spreaker.com/episode/17682090</guid>
+  <pubDate>Thu, 18 Apr 2019 23:27:15 +0000</pubDate>
+  <enclosure url="https://api.spreaker.com/download/episode/17682090/episode_4.mp3" length="0" type="audio/mpeg"/>
+  <itunes:author>Hoopin and scoopin</itunes:author>
+  <itunes:subtitle>
+    We do an in-depth recap of the Warriors Game 2 implosion. Plus we talk about Magic Johnson, the rest of the NBA playoffs. Also, a baseball recap, some rec league highlights, and a brand new recurring segment. Follow us on Twitter: @needswg...
+  </itunes:subtitle>
+  <itunes:summary>
+    We do an in-depth recap of the Warriors Game 2 implosion. Plus we talk about Magic Johnson, the rest of the NBA playoffs. Also, a baseball recap, some rec league highlights, and a brand new recurring segment. Follow us on Twitter: @needswg @BradNewsBears92 @Dom_Jaranilla
+  </itunes:summary>
+  <itunes:duration>3890</itunes:duration>
+  <itunes:keywords>
+    baseball,nba,walton,curry,warriors,ball,lebron,luke,playoffs,lakers,clippers,finals,kd,lonzo
+  </itunes:keywords>
+  <itunes:explicit>yes</itunes:explicit>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg"/>
+  <itunes:episodeType>full</itunes:episodeType>
+  <googleplay:author>Hoopin and scoopin</googleplay:author>
+  <googleplay:description>
+    We do an in-depth recap of the Warriors Game 2 implosion. Plus we talk about Magic Johnson, the rest of the NBA playoffs. Also, a baseball recap, some rec league highlights, and a brand new recurring segment. Follow us on Twitter: @needswg @BradNewsBears92 @Dom_Jaranilla
+  </googleplay:description>
+  <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg"/>
+  <googleplay:explicit>Yes</googleplay:explicit>
+  </item>
   <item>
     <title>
       ARE THE WARRIORS INVINCIBLE??? Plus, BBB talk, Rec league basketball update, and some ⚾️
