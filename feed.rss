@@ -5,6 +5,9 @@
     <itunes:summary>
       And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
     </itunes:summary>
+    <description>
+      And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
+    </description>
     <atom:link href="http://www.spreaker.com/show/3400365/episodes/feed" rel="self" type="application/rss+xml" />
     <language>en</language>
     <category>Basketball</category>
@@ -25,10 +28,7 @@
     <itunes:subtitle>
       And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
     </itunes:subtitle>
-    <itunes:summary>
-      And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
-    </itunes:summary>
-    <itunes:category text="Sports & Recreation" />
+    <itunes:category text="Sports &amp; Recreation" />
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <googleplay:author>Hoopin and Scoopin</googleplay:author>
@@ -37,8 +37,40 @@
     <googleplay:description>
       And 1 is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
     </googleplay:description>
-    <googleplay:category text="Sports & Recreation" />
+    <googleplay:category text="Sports &amp; Recreation" />
     <googleplay:explicit>No</googleplay:explicit>
+    <item>
+    <title>
+      The Warriors got this in the bag right? Who's coming out of the East? The Lakers drama free (for once) + special guest Geoff
+    </title>
+    <link>https://www.spreaker.com/user/11129414/episode-5</link>
+    <description>
+      This week, we talk about the recent updates int he Warriors Clippers series, and preview game 5. Also, some lively debate about the Eastern conference playoffs. Also, rec league recap, baseball talk, and HATER'S CORNER IS BACK! Follow us on twitter @needswg @BradNewsBears92 @DomJaranilla @ThatHalfKorean
+    </description>
+    <guid isPermaLink="false">https://api.spreaker.com/episode/17737613</guid>
+    <pubDate>Wed, 24 Apr 2019 22:27:32 +0000</pubDate>
+    <enclosure url="https://api.spreaker.com/download/episode/17737613/episode_5.mp3" length="0" type="audio/mpeg"/>
+    <itunes:author>Hoopin and scoopin</itunes:author>
+    <itunes:subtitle>
+      This week, we talk about the recent updates int he Warriors Clippers series, and preview game 5. Also, some lively debate about the Eastern conference playoffs. Also, rec league recap, baseball talk, and HATER'S CORNER IS BACK! Follow us on twitter...
+    </itunes:subtitle>
+    <itunes:summary>
+      This week, we talk about the recent updates int he Warriors Clippers series, and preview game 5. Also, some lively debate about the Eastern conference playoffs. Also, rec league recap, baseball talk, and HATER'S CORNER IS BACK! Follow us on twitter @needswg @BradNewsBears92 @DomJaranilla @ThatHalfKorean
+    </itunes:summary>
+    <itunes:duration>3594</itunes:duration>
+    <itunes:keywords>
+      nba,curry,warriors,lebron,luke,haters,lakers,kobe,kanye,clippers,looney,sportsmanship,kevon,sundayservice,bogut,klay,montrez
+    </itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <googleplay:author>Hoopin and scoopin</googleplay:author>
+    <googleplay:description>
+      This week, we talk about the recent updates int he Warriors Clippers series, and preview game 5. Also, some lively debate about the Eastern conference playoffs. Also, rec league recap, baseball talk, and HATER'S CORNER IS BACK! Follow us on twitter @needswg @BradNewsBears92 @DomJaranilla @ThatHalfKorean
+    </googleplay:description>
+    <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b7cc00e745be240604a7a4f7b7df3777.jpg"/>
+    <googleplay:explicit>No</googleplay:explicit>
+    </item>
   <item>
   <title>
     Are the Warriors in trouble? Magic left the Lakers, now what? Plus a special guest!
@@ -137,7 +169,7 @@
   </item>
     <item>
       <title>
-        Episode 1 - WE ARE BACK + Post Trade Deadline Analysis & More!
+        Episode 1 - WE ARE BACK + Post Trade Deadline Analysis &amp; More!
       </title>
       <link> https://www.dropbox.com/s/fu9ejj8pqgbm2po/Episode%201%20-%20WE%20ARE%20BACK%20%2B%20Post%20Trade%20Deadline%20Analysis%20%26%20More%21.mp3?dl=0
       </link>
