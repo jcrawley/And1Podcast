@@ -1,7 +1,8 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
+    <itunes:new-feed-url>https://anchor.fm/s/8483136c/podcast/rss</itunes:new-feed-url>
     <title>Airpods &amp; Airballs</title>
-    <link>https://www.spreaker.com/show/the-and-1-podcast</link>
+    <link>https://anchor.fm/airpods-airballs</link>
     <itunes:summary>
       Airpods &amp; Airballs is a hot take basketball podcast with tons of off-topic banter, Warriors talk, and Luke Walton slander
     </itunes:summary>
